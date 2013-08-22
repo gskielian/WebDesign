@@ -14,3 +14,7 @@ I included all the files you need to get started (just download the zip, extract
 To learn more about Javascript Check the following:
 
 http://betterexplained.com/articles/the-single-page-javascript-overview/
+
+To get started with node.js I would suggest starting here:
+
+http://blog.modulus.io/absolute-beginners-guide-to-nodejs
